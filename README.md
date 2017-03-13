@@ -24,3 +24,16 @@ http://www.fukushihoken.metro.tokyo.jp/kiban/fukushi_shisetsu/shs_list/shisetsui
 http://www.fukushihoken.metro.tokyo.jp/kodomo/hoiku/ninsyo/ichiran.html
 ### 認可外保育園
 http://www.fukushihoken.metro.tokyo.jp/kodomo/hoiku/ninkagai/babyichiran_koukai.html
+
+## raw dataをCSVに加工したもの
+### rawdata_csv
+
+## アプリ内に組み込まれてるデータ(CSV)
+※加工してShiftJISからUTF-8にしてます。（差分を明確にするため）
+### inapp_csv
+- ninka.csv
+- ninkagai_others.csv
+- ninkagai.csv
+- ninsyou_a.csv
+- ninsyou_b.csv
+- nintei_kodomoen.csv
