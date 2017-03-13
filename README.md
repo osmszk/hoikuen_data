@@ -25,9 +25,6 @@ http://www.fukushihoken.metro.tokyo.jp/kodomo/hoiku/ninsyo/ichiran.html
 ### 認可外保育園
 http://www.fukushihoken.metro.tokyo.jp/kodomo/hoiku/ninkagai/babyichiran_koukai.html
 
-## raw dataをCSVに加工したもの
-### rawdata_csv
-
 ## アプリ内に組み込まれてるデータ(CSV)
 ※加工してShiftJISからUTF-8にしてます。（差分を明確にするため）
 ### inapp_csv
