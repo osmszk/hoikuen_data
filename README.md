@@ -16,14 +16,14 @@ rawdata/ninsyouichiran170301.xlsx
 ### 認可外保育園
 rawdata/ninkagaiitiran.xls
 
-## 情報ソース：東京都福祉保健局
-http://www.fukushihoken.metro.tokyo.jp/
+## 情報ソース：福祉局
+https://www.fukushi.metro.tokyo.lg.jp/
 ### 認可保育園
-http://www.fukushihoken.metro.tokyo.jp/kiban/fukushi_shisetsu/shs_list/shisetsuitiran.html
+https://www.fukushi.metro.tokyo.lg.jp/kiban/fukushi_shisetsu/shs_list
 ### 認証保育園
-http://www.fukushihoken.metro.tokyo.jp/kodomo/hoiku/ninsyo/ichiran.html
+https://www.fukushi.metro.tokyo.lg.jp/kodomo/hoiku/ninsyo/ichiran
 ### 認可外保育園
-http://www.fukushihoken.metro.tokyo.jp/kodomo/hoiku/ninkagai/babyichiran_koukai.html
+https://www.fukushi.metro.tokyo.lg.jp/kodomo/hoiku/ninkagai/ninkagai-ichiran/ninkagai_list
 
 ## アプリ内に組み込まれてるデータ(CSV)
 ※加工してShiftJISからUTF-8にしてます。（差分を明確にするため）
